@@ -16,7 +16,7 @@ This helped replicate a real-world scenario where analysts receive ambiguous or 
 
 ### Step 2: Validation & Refinement
 
-The generated brief was reviewed and refined to ensure:
+The generated brief was reviewed and refined to ensure (BusinessStakeholderBreif) :
 
 Questions were measurable using available data
 Scope aligned with dataset limitations
